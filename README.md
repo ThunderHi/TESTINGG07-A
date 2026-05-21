@@ -79,12 +79,12 @@ Contraseña: 72807827
 
 ```text
 Código: 2021601981
-Contraseña: 72807827
+Contraseña: Urbiola2026
 ```
 
 ```text
 Código: 2023803011
-Contraseña: 72807827
+Contraseña: Rojas2026
 ```
 
 ---
